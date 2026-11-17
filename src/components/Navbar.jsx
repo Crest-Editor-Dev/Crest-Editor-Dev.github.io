@@ -43,7 +43,7 @@ export default function Navbar() {
 
           <a
             href="#download"
-            className="flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-md bg-slate-100 hover:bg-white text-slate-950 transition-all shadow-sm hover:shadow-brand-cyan/10"
+            className="flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-md bg-slate-100 hover:bg-white text-slate-950 transition-all shadow-sm hover:shadow-brand-cyan/10 active:scale-95"
           >
             <Download className="w-3.5 h-3.5" />
             <span>Get APK</span>
