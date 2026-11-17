@@ -1,0 +1,21 @@
+{
+  "name": "Crest Editor",
+  "short_name": "Crest",
+  "description": "Desktop-grade code editor engine built for Android with Jetpack Compose, Monaco Editor, and PRoot Linux.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b11",
+  "theme_color": "#080b11",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Crest-Editor-logo-transparent.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
