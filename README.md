@@ -2,11 +2,11 @@
 
 The official landing page and web portal for [**Crest-Editor**](https://github.com/Crest-Editor-Dev/Crest-Editor) — a high-performance Android code editor built for mobile developers.
 
-🌐 **Live Website:** [crest-editor-dev.github.io](https://crest-editor-dev.github.io/)
+ **Live Website:** [crest-editor-dev.github.io](https://crest-editor-dev.github.io/)
 
 ---
 
-## ⚡ About Crest-Editor
+## About Crest-Editor
 
 **Crest-Editor** brings desktop-grade developer workflows to Android devices without compromises:
 
@@ -17,7 +17,7 @@ The official landing page and web portal for [**Crest-Editor**](https://github.c
 
 ---
 
-## 🚀 About This Website
+## About This Website
 
 A fast, minimalist landing page inspired by Zed's dark developer aesthetic.
 
@@ -27,7 +27,7 @@ A fast, minimalist landing page inspired by Zed's dark developer aesthetic.
 
 ---
 
-## 🛠️ Local Development
+## Local Development
 
 ```bash
 # Clone the repository
@@ -46,6 +46,6 @@ npm run build
 
 ---
 
-## 📄 License
+## License
 
-Distributed under the [MIT License](LICENSE).
+Distributed under the [Apache License 2.0](LICENSE).
