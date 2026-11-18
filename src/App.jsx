@@ -23,7 +23,7 @@ export default function App() {
               GitHub
             </a>
             <a href="https://github.com/Crest-Editor-Dev/Crest-Editor/blob/main/LICENSE" target="_blank" rel="noreferrer" className="hover:text-slate-300 transition">
-              License (MIT)
+              License (GPL-3.0)
             </a>
           </div>
         </div>
