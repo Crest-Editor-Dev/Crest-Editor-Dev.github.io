@@ -12,7 +12,7 @@ The official landing page and web portal for [**Crest-Editor**](https://github.c
 
 - **Monaco Editor Engine:** VS Code-like coding experience, touch-optimized for mobile screens.
 - **Native UI:** Built with Jetpack Compose & Material 3 for fluid, responsive mobile performance.
-- **Linux Sandbox:** Built-in PRoot Linux environment and terminal for real shells, compilers, and dev runtimes.
+- **Linux Sandbox:** Built-in Linux environment and terminal for real shells, compilers, and dev runtimes.
 - **Modern Workflow:** Multi-tab editing, file management, and developer shortcuts right in your pocket.
 
 ---

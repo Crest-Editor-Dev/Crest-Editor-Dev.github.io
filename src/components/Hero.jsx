@@ -76,11 +76,11 @@ export default function Hero() {
         <div className="mt-12 flex flex-wrap items-center justify-center gap-6 text-xs text-slate-400 font-mono">
           <div className="flex items-center gap-2">
             <Zap className="w-3.5 h-3.5 text-brand-cyan" />
-            <span>VS Code Monaco Engine</span>
+            <span>Monaco Editor</span>
           </div>
           <div className="flex items-center gap-2">
             <Cpu className="w-3.5 h-3.5 text-indigo-400" />
-            <span>PRoot Linux Environment</span>
+            <span>Integrated Linux Environment</span>
           </div>
           <div className="flex items-center gap-2">
             <Shield className="w-3.5 h-3.5 text-emerald-400" />
